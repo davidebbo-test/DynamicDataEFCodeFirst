@@ -1,6 +1,6 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicDataEFCodeFirst", "DynamicDataEFCodeFirst\DynamicDataEFCodeFirst.csproj", "{CAF2E7C4-E850-48B8-B205-FC6CF361DC80}"
 EndProject
 Global
